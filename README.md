@@ -1,2 +1,2 @@
 # googlenew
-Patika Dev google güncel ödevi
+Patika Dev google güncel css ödevi
